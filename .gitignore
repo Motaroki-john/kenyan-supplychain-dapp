@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+client/node_modules/
+blockchain/node_modules/
+
+# Build output
+build/
+dist/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Hardhat cache
+cache/
+artifacts/
